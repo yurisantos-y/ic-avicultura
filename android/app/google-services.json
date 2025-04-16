@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403354366006",
+    "project_id": "ic-avicultura-app-f8ffd",
+    "storage_bucket": "ic-avicultura-app-f8ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403354366006:android:cafb7a6acb9efb7c6ca897",
+        "android_client_info": {
+          "package_name": "com.example.avicultura_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDMfo3aFCtAG0sYGY3dmVKsHfHYGWVJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
